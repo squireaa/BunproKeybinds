@@ -19,5 +19,5 @@ Changes the keybinds for bunpro to make listening cram sessions more effective
 2. Edit the position of the pyautogui.click() function if necessary
 
 # Currently Supported resolutions
-1920x1080
-2560x1080
+- 1920x1080
+- 2560x1080
