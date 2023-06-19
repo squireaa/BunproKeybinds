@@ -26,7 +26,7 @@ def on_right_arrow():
 
 keyboard.add_hotkey('left', on_left_arrow)
 keyboard.add_hotkey('right', on_right_arrow)
-keyboard.add_hotkey('up', on_down_arrow)
+keyboard.add_hotkey('down', on_down_arrow)
 keyboard.on_press_key('up', lambda _: click_at_position())
 
 # waits til backtick is pressed (esc is used in the application)
