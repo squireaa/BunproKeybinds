@@ -8,15 +8,15 @@ Changes the keybinds for bunpro to make listening cram sessions more effective
 4. Click "Practice" then "Cram"
 5. Select "Reading" mode under "Style"
 6. Add desired grammar and amount
-7. use the down arrow key to play the audio
+7. use the up arrow key to play the audio
 8. figure out what the audio is saying
-9. check your answer with the up arrow key
+9. check your answer with the down arrow key
 10. evaluate your response using the left and right arrow keys (same as quizlet)
 11. benefit from this effective study technique!
 
 # Troubleshooting
-1. Make sure you are in full screen mode
-2. Edit the position of the pyautogui.click() function
+1. Make sure the tab is full screen
+2. Edit the position of the pyautogui.click() function if necessary
 
 # Currently Supported resolutions
 1920x1080
